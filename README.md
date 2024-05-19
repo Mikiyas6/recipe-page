@@ -16,8 +16,8 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Github-link](https://github.com/Mikiyas6/nft-preview-card-component-main)
-- Live Site URL: [Page-link](https://mikiyas6.github.io/nft-preview-card-component-main/)
+- Solution URL: [Github-link](https://github.com/Mikiyas6/recipe-page)
+- Live Site URL: [Page-link](https://mikiyas6.github.io/recipe-page/)
 
 ## My process
 
